@@ -1,0 +1,50 @@
+Test Data File:F:/New Log table/BLOWFISH_P11K11 Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.7084109991959214  	Random
+02. Frequency Test within a Block                 	0.8368269643701612  	Random
+03. Run Test                                      	0.9133281270871976  	Random
+04. Longest Run of Ones in a Block                	0.09362607335191013 	Random
+05. Binary Matrix Rank Test                       	0.9513741773752132  	Random
+06. Discrete Fourier Transform (Spectral) Test    	0.8442527798077041  	Random
+07. Non-Overlapping Template Matching Test        	0.7804719791356536  	Random
+08. Overlapping Template Matching Test            	0.30537793184033785 	Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.4342657118572054  	Random
+11. Serial test:
+													0.8040686208587964  	Random
+													0.8055295859326651  	Random
+12. Approximate Entropy Test                      	0.8600076133605676  	Random
+13. Cummulative Sums (Forward) Test               	0.9375812836940625  	Random
+14. Cummulative Sums (Reverse) Test               	0.6168104881211667  	Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	1.8930319913872364  	0.8637393034933669  	Random
+				-3        	2.647426415094341   	0.7541468352134197  	Random
+				-2        	3.4261976861557577  	0.6345830859762112  	Random
+				-1        	4.6100628930817615  	0.46529378951772693 	Random
+				+1        	5.0754716981132075  	0.4067391871000801  	Random
+				+2        	5.93570929419986    	0.31252504469402026 	Random
+				+3        	2.1671245283018874  	0.8255701973700458  	Random
+				+4        	3.3331971217443463  	0.6487631795116064  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	302                 	0.8777086042339481  	Random
+				-8.0      	323                 	0.9591731164348319  	Random
+				-7.0      	323                 	0.9561478376964481  	Random
+				-6.0      	317                 	0.9904609568149884  	Random
+				-5.0      	336                 	0.8119466522247989  	Random
+				-4.0      	362                 	0.5096134466363638  	Random
+				-3.0      	343                 	0.6575275557323887  	Random
+				-2.0      	320                 	0.9634801362928509  	Random
+				-1.0      	338                 	0.42774776839694806 	Random
+				+1.0      	295                 	0.3617638095004022  	Random
+				+2.0      	299                 	0.6635804874308898  	Random
+				+3.0      	307                 	0.8453421419516881  	Random
+				+4.0      	319                 	0.9880423393167883  	Random
+				+5.0      	305                 	0.8635728750676932  	Random
+				+6.0      	283                 	0.6756184378042156  	Random
+				+7.0      	289                 	0.7497782630666845  	Random
+				+8.0      	294                 	0.805900501153018   	Random
+				+9.0      	288                 	0.7729526319793609  	Random

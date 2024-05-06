@@ -1,0 +1,49 @@
+Test Data File:C:/Users/Salar/Desktop/New folder/Serpent_P2K2Flipped Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	1.6283884333142231e-230	Non-Random
+02. Frequency Test within a Block                 	2.8827309002596444e-37	Non-Random
+03. Run Test                                      	0.0                 	Non-Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	3.124795211177375e-92	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	3.7073534251830563e-25	Non-Random
+08. Overlapping Template Matching Test            	1.8014922586270998e-22	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	4.9414433971461363e-231	Non-Random
+14. Cummulative Sums (Reverse) Test               	2.9983126255715624e-231	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	3.3013625275182963  	0.6536330865554546  	Random
+				-3        	6.472               	0.2629600288029497  	Random
+				-2        	5.696649029982364   	0.3368639111677419  	Random
+				-1        	3.0                 	0.6999858358786276  	Random
+				+1        	2.714285714285714   	0.7439326487244222  	Random
+				+2        	2.6913580246913584  	0.7474398686896859  	Random
+				+3        	12.937599999999998  	0.023970593681746866	Random
+				+4        	27.004819420479564  	5.6919319637411416e-05	Non-Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-8.0      	2                   	0.5581846494226572  	Random
+				-7.0      	6                   	0.6749867139704893  	Random
+				-6.0      	8                   	0.7324398999038725  	Random
+				-5.0      	7                   	0.6592430036926307  	Random
+				-4.0      	7                   	0.6170750774519738  	Random
+				-3.0      	7                   	0.5541131300694455  	Random
+				-2.0      	12                  	0.8272593465627114  	Random
+				-1.0      	16                  	0.7054569861112734  	Random
+				+1.0      	16                  	0.7054569861112734  	Random
+				+2.0      	18                  	0.6625205835400576  	Random
+				+3.0      	19                  	0.6726038174415166  	Random
+				+4.0      	18                  	0.7750969621959847  	Random
+				+5.0      	18                  	0.8010593708697096  	Random
+				+6.0      	18                  	0.8197075378297883  	Random
+				+7.0      	20                  	0.7531523647659145  	Random
+				+8.0      	19                  	0.8072501679320072  	Random
+				+9.0      	7                   	0.7483282542991072  	Random

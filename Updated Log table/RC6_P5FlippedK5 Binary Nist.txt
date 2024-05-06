@@ -1,0 +1,43 @@
+Test Data File:C:/Users/Salar/Desktop/New folder/RC6_P5FlippedK5 Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	7.477402393961115e-14	Non-Random
+02. Frequency Test within a Block                 	1.0                 	Random
+03. Run Test                                      	0.0                 	Non-Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	3.7371568032792403e-78	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	3.070600706254567e-21	Non-Random
+08. Overlapping Template Matching Test            	7.587656828494488e-19	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	1.1590172449163622e-13	Non-Random
+14. Cummulative Sums (Reverse) Test               	1.4033056789374964e-13	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	3.0730251284187142  	0.6887284450698641  	Random
+				-3        	2.7471999999999994  	0.7388904810664016  	Random
+				-2        	2.9917695473251027  	0.7012548073954025  	Random
+				-1        	4.333333333333334   	0.502487515435573   	Random
+				+1        	2.3333333333333335  	0.8013589222076911  	Random
+				+2        	4.111111111111111   	0.5335322196587069  	Random
+				+3        	0.6                 	0.9880032427940937  	Random
+				+4        	0.4285714285714286  	0.9945059778188691  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	31                  	0.005564237030557815	Non-Random
+				-8.0      	24                  	0.026856695507524418	Random
+				-7.0      	17                  	0.11292366071592876 	Random
+				-6.0      	15                  	0.13964939861042938 	Random
+				-5.0      	14                  	0.13441657417036026 	Random
+				-4.0      	19                  	0.013554666064815537	Random
+				-3.0      	24                  	0.0001260464501208139	Non-Random
+				-2.0      	14                  	0.009521891184098845	Non-Random
+				-1.0      	4                   	0.6830913983096087  	Random
+				+1.0      	2                   	0.6830913983096087  	Random
+				+2.0      	1                   	0.6373518882339371  	Random

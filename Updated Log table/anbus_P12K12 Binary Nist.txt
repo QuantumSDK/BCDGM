@@ -1,0 +1,42 @@
+Test Data File:F:/New Log table/ANUBIS_P12K12 Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	3.986243414273765e-121	Non-Random
+02. Frequency Test within a Block                 	0.03112772606201378 	Random
+03. Run Test                                      	0.0                 	Non-Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	1.336316910829341e-86	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	1.7545671518973587e-23	Non-Random
+08. Overlapping Template Matching Test            	1.1750405239475564e-20	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	1.135565978698807e-121	Non-Random
+14. Cummulative Sums (Reverse) Test               	1.8148088699672817e-121	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	1.2857142857142856  	0.9363947807905831  	Random
+				-3        	1.8000000000000003  	0.8760684003246599  	Random
+				-2        	3.0                 	0.6999858358786276  	Random
+				-1        	3.0                 	0.6999858358786276  	Random
+				+1        	5.0                 	0.4158801869955079  	Random
+				+2        	2.4074074074074074  	0.7903705031113415  	Random
+				+3        	3.0629333333333326  	0.690283810130396   	Random
+				+4        	3.28784302836781    	0.6557034169146474  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-1.0      	3                   	0.15729920705028516 	Random
+				+1.0      	7                   	0.6373518882339371  	Random
+				+2.0      	3                   	0.4142161782425253  	Random
+				+3.0      	17                  	0.3990751965482372  	Random
+				+4.0      	27                  	0.10880943004054568 	Random
+				+5.0      	27                  	0.15729920705028516 	Random
+				+6.0      	23                  	0.3197670634951788  	Random
+				+7.0      	16                  	0.647236742644139   	Random
+				+8.0      	16                  	0.6701031580103327  	Random
+				+9.0      	17                  	0.6474341857017969  	Random

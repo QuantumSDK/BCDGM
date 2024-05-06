@@ -1,0 +1,47 @@
+Test Data File:F:/New Log table/CAST6_P11K11 Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.9944246575093129  	Random
+02. Frequency Test within a Block                 	1.0                 	Random
+03. Run Test                                      	1.7525071154796864e-278	Non-Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	2.389141765708305e-113	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	1.28320805811423e-31	Non-Random
+08. Overlapping Template Matching Test            	4.431237215902173e-102	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	0.9999999999999998  	Random
+14. Cummulative Sums (Reverse) Test               	1.0000000000000009  	Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	2.0730251284187147  	0.8389511636331648  	Random
+				-3        	2.1471999999999998  	0.8284250073474608  	Random
+				-2        	3.325102880658436   	0.6500006905944793  	Random
+				-1        	12.5                	0.028543123326167485	Random
+				+1        	11.166666666666666  	0.04817379831988814 	Random
+				+2        	4.6419753086419755  	0.4611151816718333  	Random
+				+3        	5.919999999999999   	0.3140812776344028  	Random
+				+4        	6.489795918367347   	0.2614315722813356  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	5112                	0.0                 	Non-Random
+				-8.0      	6391                	0.0                 	Non-Random
+				-7.0      	8309                	0.0                 	Non-Random
+				-6.0      	7675                	0.0                 	Non-Random
+				-5.0      	5766                	0.0                 	Non-Random
+				-4.0      	4490                	0.0                 	Non-Random
+				-3.0      	3213                	0.0                 	Non-Random
+				-2.0      	1934                	0.0                 	Non-Random
+				-1.0      	648                 	0.0                 	Non-Random
+				+1.0      	13                  	0.8382564863858263  	Random
+				+2.0      	7                   	0.5556897902827946  	Random
+				+3.0      	5                   	0.5228166539190886  	Random
+				+4.0      	3                   	0.48745329036403495 	Random
+				+5.0      	2                   	0.49624247444426306 	Random
+				+6.0      	1                   	0.4984039238004654  	Random

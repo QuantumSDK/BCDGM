@@ -1,0 +1,50 @@
+Test Data File:F:/NetBeans Projects/ownSP2/Encryption/ownSP_P12K12 Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.760699897554709   	Random
+02. Frequency Test within a Block                 	0.17905223074139032 	Random
+03. Run Test                                      	0.19435239983404207 	Random
+04. Longest Run of Ones in a Block                	0.6308220675543423  	Random
+05. Binary Matrix Rank Test                       	0.04526127716062328 	Random
+06. Discrete Fourier Transform (Spectral) Test    	0.4945370679359231  	Random
+07. Non-Overlapping Template Matching Test        	0.5299756143175195  	Random
+08. Overlapping Template Matching Test            	0.6735003864506739  	Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.8409338526861679  	Random
+11. Serial test:
+													0.1827985778109707  	Random
+													0.3526161221453087  	Random
+12. Approximate Entropy Test                      	0.35635313746228836 	Random
+13. Cummulative Sums (Forward) Test               	0.8595417240915808  	Random
+14. Cummulative Sums (Reverse) Test               	0.9196228425313278  	Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	5.177912165245029   	0.3945558428536225  	Random
+				-3        	11.009846153846155  	0.05118511236694723 	Random
+				-2        	6.354880964076367   	0.27320240026548054 	Random
+				-1        	4.204244031830239   	0.5204002626466894  	Random
+				+1        	4.43236074270557    	0.48898402265573204 	Random
+				+2        	8.066640468939319   	0.15260098115263993 	Random
+				+3        	3.3771840848806374  	0.6420471339148972  	Random
+				+4        	4.2878409416058965  	0.5087608429663009  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	265                 	0.3225388015592172  	Random
+				-8.0      	322                 	0.6050391024736537  	Random
+				-7.0      	354                 	0.8162961732968131  	Random
+				-6.0      	404                 	0.7668706554444642  	Random
+				-5.0      	439                 	0.4516689135244888  	Random
+				-4.0      	430                 	0.4656795565158218  	Random
+				-3.0      	433                 	0.3617438297872645  	Random
+				-2.0      	411                 	0.47468373578377177 	Random
+				-1.0      	380                 	0.9130013828631269  	Random
+				+1.0      	416                 	0.15552145843400655 	Random
+				+2.0      	480                 	0.03033693019611083 	Random
+				+3.0      	496                 	0.05261096645638723 	Random
+				+4.0      	505                 	0.07809029358493302 	Random
+				+5.0      	568                 	0.020416558933624804	Random
+				+6.0      	605                 	0.012296119231875641	Random
+				+7.0      	622                 	0.013337754389658788	Random
+				+8.0      	700                 	0.0023879899334088676	Non-Random
+				+9.0      	781                 	0.0003591937790759604	Non-Random

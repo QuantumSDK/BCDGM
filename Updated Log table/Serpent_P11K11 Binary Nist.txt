@@ -1,0 +1,50 @@
+Test Data File:C:/Users/Salar/Desktop/New folder/Serpent_P11K11 Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	1.0043523971516388e-05	Non-Random
+02. Frequency Test within a Block                 	1.0                 	Random
+03. Run Test                                      	0.0                 	Non-Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	2.389141765708305e-113	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	1.28320805811423e-31	Non-Random
+08. Overlapping Template Matching Test            	1.4353928015871716e-27	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	1.653319706914379e-05	Non-Random
+14. Cummulative Sums (Reverse) Test               	1.574354241555218e-05	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	4.128153673343178   	0.5311165128638129  	Random
+				-3        	2.1860363636363638  	0.8228503513514696  	Random
+				-2        	2.546202768424991   	0.7695213335338402  	Random
+				-1        	2.5757575757575757  	0.7650450973834452  	Random
+				+1        	1.8484848484848486  	0.8696876064497019  	Random
+				+2        	0.48709315375982043 	0.9925882684002326  	Random
+				+3        	7.810036363636365   	0.1670203228883528  	Random
+				+4        	1.2428912195676045  	0.9406969534655232  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	64                  	0.9663232926998919  	Random
+				-8.0      	64                  	0.964149827094507   	Random
+				-7.0      	64                  	0.961492731069838   	Random
+				-6.0      	64                  	0.9581411411014572  	Random
+				-5.0      	64                  	0.9537280097577494  	Random
+				-4.0      	64                  	0.947540902088477   	Random
+				-3.0      	64                  	0.937947456842939   	Random
+				-2.0      	64                  	0.9199443808170075  	Random
+				-1.0      	64                  	0.8618044330490109  	Random
+				+1.0      	66                  	1.0                 	Random
+				+2.0      	65                  	0.9599216609063783  	Random
+				+3.0      	63                  	0.9070384808036948  	Random
+				+4.0      	59                  	0.8178717972514383  	Random
+				+5.0      	49                  	0.621857129896537   	Random
+				+6.0      	41                  	0.5117727476996168  	Random
+				+7.0      	40                  	0.5302359235069221  	Random
+				+8.0      	39                  	0.5439970047870248  	Random
+				+9.0      	39                  	0.5686977427174329  	Random

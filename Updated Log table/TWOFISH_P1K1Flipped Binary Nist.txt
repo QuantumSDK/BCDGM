@@ -1,0 +1,50 @@
+Test Data File:C:/Users/Salar/Desktop/New folder/TWOFISH_P1K1Flipped Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	4.4070885588929585e-177	Non-Random
+02. Frequency Test within a Block                 	5.170628576421968e-14	Non-Random
+03. Run Test                                      	0.0                 	Non-Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	1.221939163759842e-93	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	1.4110800044771812e-25	Non-Random
+08. Overlapping Template Matching Test            	1.8014922586270998e-22	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	1.5875312005085382e-177	Non-Random
+14. Cummulative Sums (Reverse) Test               	8.236637566335477e-178	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	12.525197834235735  	0.02825861267513463 	Random
+				-3        	0.9487999999999996  	0.9665887981607446  	Random
+				-2        	5.465608465608465   	0.3617317769424691  	Random
+				-1        	1.0                 	0.9625657732472964  	Random
+				+1        	7.0                 	0.22064030793671066 	Random
+				+2        	4.98589065255732    	0.4176045415950671  	Random
+				+3        	4.205942857142857   	0.5201623176549315  	Random
+				+4        	0.8272148509549593  	0.9752651154216654  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	16                  	0.5596352629850943  	Random
+				-8.0      	13                  	0.6788452994243183  	Random
+				-7.0      	10                  	0.8240221313018803  	Random
+				-6.0      	6                   	0.9357741458363251  	Random
+				-5.0      	3                   	0.7215797250891103  	Random
+				-4.0      	4                   	0.7618549862187101  	Random
+				-3.0      	6                   	0.9048611294504482  	Random
+				-2.0      	5                   	0.7576207236833965  	Random
+				-1.0      	4                   	0.4226780741706355  	Random
+				+1.0      	12                  	0.18144920772142048 	Random
+				+2.0      	17                  	0.1228226481013925  	Random
+				+3.0      	18                  	0.18859344218176333 	Random
+				+4.0      	18                  	0.26649612895753194 	Random
+				+5.0      	19                  	0.28504940740261286 	Random
+				+6.0      	17                  	0.42034493503392867 	Random
+				+7.0      	13                  	0.6565007277753426  	Random
+				+8.0      	8                   	0.9449844010606654  	Random
+				+9.0      	2                   	0.7458609174504707  	Random

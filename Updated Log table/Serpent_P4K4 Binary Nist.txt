@@ -1,0 +1,50 @@
+Test Data File:C:/Users/Salar/Desktop/New folder/Serpent_P4K4 Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.9485529942996102  	Random
+02. Frequency Test within a Block                 	1.0                 	Random
+03. Run Test                                      	2.496247983920472e-18	Non-Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	2.6127737276716404e-106	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	1.831627948013672e-29	Non-Random
+08. Overlapping Template Matching Test            	4.131527030984038e-26	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	0.9999999999999996  	Random
+14. Cummulative Sums (Reverse) Test               	1.0000000000000004  	Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	84.8813895849407    	7.971408104313228e-17	Non-Random
+				-3        	119.62236327868851  	3.773259070750802e-24	Non-Random
+				-2        	200.7310261080753   	1.981647667626575e-41	Non-Random
+				-1        	606.0098360655737   	1.0170038184442364e-128	Non-Random
+				+1        	18654.92131147541   	0.0                 	Non-Random
+				+2        	7025.959279498077   	0.0                 	Non-Random
+				+3        	6904.927669508196   	0.0                 	Non-Random
+				+4        	7633.396896102034   	0.0                 	Non-Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	3                   	2.4992070053393242e-05	Non-Random
+				-8.0      	8                   	8.582549849260702e-06	Non-Random
+				-7.0      	10                  	1.8950462079681772e-06	Non-Random
+				-6.0      	12                  	2.4421784207577854e-07	Non-Random
+				-5.0      	10                  	1.0283631139329543e-08	Non-Random
+				-4.0      	6                   	6.321159443567512e-11	Non-Random
+				-3.0      	7                   	1.1576169874014462e-14	Non-Random
+				-2.0      	4                   	1.285069908453324e-23	Non-Random
+				-1.0      	1                   	4.427376045166988e-68	Non-Random
+				+1.0      	2431                	0.0                 	Non-Random
+				+2.0      	4253                	0.0                 	Non-Random
+				+3.0      	7289                	0.0                 	Non-Random
+				+4.0      	9715                	0.0                 	Non-Random
+				+5.0      	13962               	0.0                 	Non-Random
+				+6.0      	15782               	0.0                 	Non-Random
+				+7.0      	9712                	0.0                 	Non-Random
+				+8.0      	6677                	0.0                 	Non-Random
+				+9.0      	5463                	6.155185444783923e-249	Non-Random

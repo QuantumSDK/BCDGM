@@ -1,0 +1,50 @@
+Test Data File:C:/Users/Salar/Desktop/New folder/TWOFISH_P3K3Flipped Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	1.4575663128774943e-104	Non-Random
+02. Frequency Test within a Block                 	0.9999809233647903  	Random
+03. Run Test                                      	0.0                 	Non-Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	2.6127737276716404e-106	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	2.6848816948350896e-301	Non-Random
+08. Overlapping Template Matching Test            	5.571376314433389e-25	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	4.93171561987253e-105	Non-Random
+14. Cummulative Sums (Reverse) Test               	1.9292492555143564e-105	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	0.7059558517284465  	0.9826402055223541  	Random
+				-3        	0.9052              	0.9698440333470613  	Random
+				-2        	1.7469135802469133  	0.8829372449517765  	Random
+				-1        	4.5                 	0.4798834381132997  	Random
+				+1        	7.0                 	0.22064030793671066 	Random
+				+2        	7.209876543209877   	0.20549359982071286 	Random
+				+3        	8.450799999999997   	0.1330790355197945  	Random
+				+4        	27.10495626822157   	5.441959268861404e-05	Non-Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	6                   	0.9034789137192296  	Random
+				-8.0      	6                   	0.897278961260083   	Random
+				-7.0      	3                   	0.7288260098923188  	Random
+				-6.0      	4                   	0.763024600552995   	Random
+				-5.0      	6                   	0.8676323347781927  	Random
+				-4.0      	8                   	1.0                 	Random
+				-3.0      	9                   	0.910979292510634   	Random
+				-2.0      	12                  	0.5637028616507731  	Random
+				-1.0      	12                  	0.31731050786291415 	Random
+				+1.0      	9                   	0.8025873486341526  	Random
+				+2.0      	14                  	0.3864762307712327  	Random
+				+3.0      	13                  	0.5761501220305789  	Random
+				+4.0      	9                   	0.9247190374867695  	Random
+				+5.0      	9                   	0.9335864962947554  	Random
+				+6.0      	13                  	0.7062559621048525  	Random
+				+7.0      	16                  	0.5790997419539188  	Random
+				+8.0      	23                  	0.3329216080655659  	Random
+				+9.0      	28                  	0.22525290636065332 	Random

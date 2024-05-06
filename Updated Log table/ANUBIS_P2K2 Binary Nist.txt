@@ -1,0 +1,50 @@
+Test Data File:F:/New Log table/ANUBIS_P2K2 Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	5.9214513446550555e-05	Non-Random
+02. Frequency Test within a Block                 	1.0                 	Random
+03. Run Test                                      	0.0                 	Non-Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	3.124795211177375e-92	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	1.4220303298526848e-25	Non-Random
+08. Overlapping Template Matching Test            	2.3057891703386713e-21	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	0.00010561262145134724	Non-Random
+14. Cummulative Sums (Reverse) Test               	8.809317321211156e-05	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	3.992734508769494   	0.5504624813558476  	Random
+				-3        	3.186666666666667   	0.6712325059211331  	Random
+				-2        	3.9039780521262     	0.563322065814277   	Random
+				-1        	4.638888888888889   	0.4615182924409952  	Random
+				+1        	4.861111111111112   	0.4330646277064134  	Random
+				+2        	4.864197530864197   	0.4326776892251336  	Random
+				+3        	6.150799999999999   	0.2918207995241324  	Random
+				+4        	3.0426211300846866  	0.6934148252251155  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	32                  	0.41883037948611723 	Random
+				-8.0      	42                  	0.5186050164287256  	Random
+				-7.0      	46                  	0.5478897995168904  	Random
+				-6.0      	49                  	0.5633338338500602  	Random
+				-5.0      	51                  	0.5596689271994115  	Random
+				-4.0      	56                  	0.6142946646634824  	Random
+				-3.0      	63                  	0.7373156772164182  	Random
+				-2.0      	69                  	0.8852339144732017  	Random
+				-1.0      	69                  	0.8025873486341526  	Random
+				+1.0      	76                  	0.7388826803635272  	Random
+				+2.0      	74                  	0.9233418401809065  	Random
+				+3.0      	69                  	0.910979292510634   	Random
+				+4.0      	67                  	0.8748624733342836  	Random
+				+5.0      	65                  	0.8458278923128626  	Random
+				+6.0      	64                  	0.840692660305486   	Random
+				+7.0      	64                  	0.8533074196871153  	Random
+				+8.0      	64                  	0.8633332895365006  	Random
+				+9.0      	64                  	0.8715496516072889  	Random

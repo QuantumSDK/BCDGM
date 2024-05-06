@@ -1,0 +1,50 @@
+Test Data File:F:/NetBeans Projects/ownSP2/Encryption/ownSP_P6K6 Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.482844102891242   	Random
+02. Frequency Test within a Block                 	0.32861231562740983 	Random
+03. Run Test                                      	0.6110725959700006  	Random
+04. Longest Run of Ones in a Block                	0.33617756784003017 	Random
+05. Binary Matrix Rank Test                       	0.9606296943525381  	Random
+06. Discrete Fourier Transform (Spectral) Test    	0.9562428532891033  	Random
+07. Non-Overlapping Template Matching Test        	0.9378529611161378  	Random
+08. Overlapping Template Matching Test            	0.637100511147531   	Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.21498839882634535 	Random
+11. Serial test:
+													0.900383799956376   	Random
+													0.8432493139813475  	Random
+12. Approximate Entropy Test                      	0.7101297941106293  	Random
+13. Cummulative Sums (Forward) Test               	0.4101622154308502  	Random
+14. Cummulative Sums (Reverse) Test               	0.7822918841345272  	Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	2.147741471356632   	0.8283475722528221  	Random
+				-3        	4.1408000000000005  	0.5293275817646297  	Random
+				-2        	10.16835016835017   	0.07060325369820637 	Random
+				-1        	4.5606060606060606  	0.47181573365545626 	Random
+				+1        	5.712121212121212   	0.33524597199003286 	Random
+				+2        	0.9049756827534606  	0.9698603695170792  	Random
+				+3        	0.46080000000000004 	0.9934884180012871  	Random
+				+4        	7.787992376913659   	0.1683133412601846  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	47                  	0.20451310176820547 	Random
+				-8.0      	45                  	0.16681186238324675 	Random
+				-7.0      	39                  	0.11240310747147086 	Random
+				-6.0      	33                  	0.06619257972219345 	Random
+				-5.0      	39                  	0.05640180118754527 	Random
+				-4.0      	51                  	0.05953380012937215 	Random
+				-3.0      	71                  	0.0931579409742947  	Random
+				-2.0      	101                 	0.2706629953488259  	Random
+				-1.0      	123                 	0.5796392710816557  	Random
+				+1.0      	128                 	0.8055405886674938  	Random
+				+2.0      	124                 	0.7762052970938843  	Random
+				+3.0      	114                 	0.620294015349161   	Random
+				+4.0      	103                 	0.4999292641012728  	Random
+				+5.0      	115                 	0.7272700777331359  	Random
+				+6.0      	112                 	0.71053712531513    	Random
+				+7.0      	93                  	0.5055907117639264  	Random
+				+8.0      	80                  	0.40861451317369646 	Random
+				+9.0      	71                  	0.3625329541265553  	Random

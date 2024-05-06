@@ -1,0 +1,50 @@
+Test Data File:C:/Users/Salar/Desktop/New folder/RC6_P12K12 Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.00012243200094507823	Non-Random
+02. Frequency Test within a Block                 	1.0                 	Random
+03. Run Test                                      	0.917987758144581   	Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	1.336316910829341e-86	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	4.547283116224163e-23	Non-Random
+08. Overlapping Template Matching Test            	1.1750405239475564e-20	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	0.00023700960266866188	Non-Random
+14. Cummulative Sums (Reverse) Test               	0.0001762573634934099	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	2.3914109861631725  	0.7927525039008547  	Random
+				-3        	4.456666666666668   	0.4857021411032091  	Random
+				-2        	2.2489711934156382  	0.813731671549254   	Random
+				-1        	1.611111111111111   	0.8999024255286983  	Random
+				+1        	2.1666666666666665  	0.8256359244964686  	Random
+				+2        	5.873113854595337   	0.3187619764882659  	Random
+				+3        	1.6166666666666667  	0.8992265370937205  	Random
+				+4        	1.4730436392243973  	0.916159450950209   	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	67                  	0.9195056008941386  	Random
+				-8.0      	70                  	0.9656751098044486  	Random
+				-7.0      	69                  	0.944720957344127   	Random
+				-6.0      	68                  	0.9199443808170075  	Random
+				-5.0      	76                  	0.9115282379093772  	Random
+				-4.0      	81                  	0.776814004155482   	Random
+				-3.0      	77                  	0.8521789268968154  	Random
+				-2.0      	74                  	0.9233418401809065  	Random
+				-1.0      	72                  	1.0                 	Random
+				+1.0      	73                  	0.9335864962947554  	Random
+				+2.0      	71                  	0.9616265663061374  	Random
+				+3.0      	71                  	0.9702714798252512  	Random
+				+4.0      	71                  	0.9748731531777381  	Random
+				+5.0      	67                  	0.8895379512490285  	Random
+				+6.0      	65                  	0.8603869471933394  	Random
+				+7.0      	64                  	0.8533074196871153  	Random
+				+8.0      	64                  	0.8633332895365006  	Random
+				+9.0      	64                  	0.8715496516072889  	Random

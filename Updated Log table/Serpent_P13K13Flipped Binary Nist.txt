@@ -1,0 +1,50 @@
+Test Data File:C:/Users/Salar/Desktop/New folder/Serpent_P13K13Flipped Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.0                 	Non-Random
+02. Frequency Test within a Block                 	2.814848705285552e-132	Non-Random
+03. Run Test                                      	0.0                 	Non-Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	2.6127737276716404e-106	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	1.0104096544784558e-29	Non-Random
+08. Overlapping Template Matching Test            	4.131527030984038e-26	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	0.0                 	Non-Random
+14. Cummulative Sums (Reverse) Test               	0.0                 	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	30.368318756073858  	1.2479928626401646e-05	Non-Random
+				-3        	12.999999999999998  	0.02337876810356385 	Random
+				-2        	8.25925925925926    	0.14251430355846842 	Random
+				-1        	5.0                 	0.4158801869955079  	Random
+				+1        	5.666666666666667   	0.34001609192154847 	Random
+				+2        	15.419753086419753  	0.008711587757944613	Non-Random
+				+3        	19.336              	0.0016638692147009169	Non-Random
+				+4        	30.368318756073858  	1.2479928626401646e-05	Non-Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	12                  	0.3728579363951833  	Random
+				-8.0      	13                  	0.29184054514378854 	Random
+				-7.0      	12                  	0.3081795474670541  	Random
+				-6.0      	7                   	0.6224606558934542  	Random
+				-5.0      	5                   	0.7854947471183542  	Random
+				-4.0      	4                   	0.8773705560641434  	Random
+				-3.0      	2                   	0.8551321405847059  	Random
+				-2.0      	3                   	1.0                 	Random
+				-1.0      	3                   	1.0                 	Random
+				+1.0      	5                   	0.4142161782425252  	Random
+				+2.0      	5                   	0.6373518882339371  	Random
+				+3.0      	4                   	0.8551321405847059  	Random
+				+4.0      	4                   	0.8773705560641434  	Random
+				+5.0      	14                  	0.13441657417036026 	Random
+				+6.0      	27                  	0.0031348505814530626	Non-Random
+				+7.0      	23                  	0.023540058261177946	Random
+				+8.0      	13                  	0.29184054514378854 	Random
+				+9.0      	12                  	0.3728579363951833  	Random

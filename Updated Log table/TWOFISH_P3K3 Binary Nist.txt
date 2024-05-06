@@ -1,0 +1,48 @@
+Test Data File:C:/Users/Salar/Desktop/New folder/TWOFISH_P3K3 Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	2.498740311732762e-18	Non-Random
+02. Frequency Test within a Block                 	1.0                 	Random
+03. Run Test                                      	0.0                 	Non-Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	2.6127737276716404e-106	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	2.05800930938452e-29	Non-Random
+08. Overlapping Template Matching Test            	4.131527030984038e-26	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	1.2103447693456904e-18	Non-Random
+14. Cummulative Sums (Reverse) Test               	1.000232501256127e-18	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	1.8654458491757469  	0.8674322805394822  	Random
+				-3        	1.6133677419354835  	0.8996280785044208  	Random
+				-2        	1.4635603345280763  	0.9172362463226609  	Random
+				-1        	3.903225806451613   	0.5634316354976602  	Random
+				+1        	9.516129032258066   	0.09016553331898695 	Random
+				+2        	14.90362405416169   	0.010782173455181754	Random
+				+3        	13.379561290322581  	0.02006997951784992 	Random
+				+4        	1.765594980586046   	0.8805344800394721  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	31                  	1.0                 	Random
+				-8.0      	28                  	0.9216354184787253  	Random
+				-7.0      	33                  	0.9438378872389469  	Random
+				-6.0      	36                  	0.8481652982165184  	Random
+				-5.0      	31                  	1.0                 	Random
+				-4.0      	28                  	0.8854968307335409  	Random
+				-3.0      	33                  	0.9095609385561121  	Random
+				-2.0      	37                  	0.6599795898660183  	Random
+				-1.0      	30                  	0.8989402980321263  	Random
+				+1.0      	39                  	0.30962890273063304 	Random
+				+2.0      	30                  	0.9415486459709105  	Random
+				+3.0      	22                  	0.6092350686367863  	Random
+				+4.0      	17                  	0.5015700058989921  	Random
+				+5.0      	8                   	0.3302215895120937  	Random
+				+6.0      	4                   	0.301190660184789   	Random
+				+7.0      	1                   	0.2906462740807302  	Random

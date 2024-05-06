@@ -1,0 +1,45 @@
+Test Data File:C:/Users/Salar/Desktop/New folder/TWOFISH_P8K8Flipped Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.3593580609017192  	Random
+02. Frequency Test within a Block                 	0.8528009166455952  	Random
+03. Run Test                                      	0.7492742158928336  	Random
+04. Longest Run of Ones in a Block                	0.2636865929566075  	Random
+05. Binary Matrix Rank Test                       	0.07220468608458437 	Random
+06. Discrete Fourier Transform (Spectral) Test    	0.6109682021376652  	Random
+07. Non-Overlapping Template Matching Test        	0.4931541828420165  	Random
+08. Overlapping Template Matching Test            	0.37794510638167034 	Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.8161606616386617  	Random
+11. Serial test:
+													0.3129636846340254  	Random
+													0.22543914369994933 	Random
+12. Approximate Entropy Test                      	0.6423214121196351  	Random
+13. Cummulative Sums (Forward) Test               	0.29841670533943254 	Random
+14. Cummulative Sums (Reverse) Test               	0.6941431992555576  	Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	20.225183951131473  	0.0011337735271139497	Non-Random
+				-3        	14.872319999999998  	0.010922055950552652	Random
+				-2        	17.932510288065846  	0.003032188117351437	Non-Random
+				-1        	11.399999999999999  	0.044001281068192115	Random
+				+1        	3.2666666666666666  	0.6589487368110041  	Random
+				+2        	3.5473251028806585  	0.6162391499851302  	Random
+				+3        	2.97472             	0.7038834451318843  	Random
+				+4        	4.476190476190476   	0.4830753775083563  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	92                  	0.05222246901274795 	Random
+				-8.0      	67                  	0.21745142642518245 	Random
+				-7.0      	73                  	0.12364642743183214 	Random
+				-6.0      	91                  	0.01757645986637962 	Random
+				-5.0      	93                  	0.006706275607805583	Non-Random
+				-4.0      	91                  	0.002915636250090396	Non-Random
+				-3.0      	86                  	0.0012242832644312096	Non-Random
+				-2.0      	66                  	0.007290358091535643	Non-Random
+				-1.0      	44                  	0.07070114486598304 	Random
+				+1.0      	19                  	0.15558034779219784 	Random
+				+2.0      	10                  	0.13603712811414362 	Random
+				+3.0      	6                   	0.16585666034291002 	Random
+				+4.0      	2                   	0.17185733906279932 	Random

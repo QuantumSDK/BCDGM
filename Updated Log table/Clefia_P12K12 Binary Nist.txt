@@ -1,0 +1,44 @@
+Test Data File:F:/New Log table/Clefia_P12K12 Binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	3.853889366864646e-309	Non-Random
+02. Frequency Test within a Block                 	7.208235359006058e-20	Non-Random
+03. Run Test                                      	0.0                 	Non-Random
+04. Longest Run of Ones in a Block                	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	4.4642401890621303e-209	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-Overlapping Template Matching Test        	8.453243811207052e-62	Non-Random
+08. Overlapping Template Matching Test            	1.5308089915007152e-52	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	4.022238653996684e-06	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cummulative Sums (Forward) Test               	1.926944683431886e-309	Non-Random
+14. Cummulative Sums (Reverse) Test               	1.44343406531607e-309	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	1.9833402748854643  	0.8514453944963547  	Random
+				-3        	1.8103999999999998  	0.8747081612331625  	Random
+				-2        	4.493827160493828   	0.4807097675043609  	Random
+				-1        	8.0                 	0.1562356275777222  	Random
+				+1        	14.0                	0.01560941610026691 	Random
+				+2        	9.777777777777779   	0.08178232094142174 	Random
+				+3        	7.7                 	0.17356267022817284 	Random
+				+4        	0.5714285714285714  	0.989273996570703   	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	4                   	1.0                 	Random
+				-8.0      	4                   	1.0                 	Random
+				-7.0      	4                   	1.0                 	Random
+				-6.0      	2                   	0.8311704095417624  	Random
+				-5.0      	1                   	0.7236736098317631  	Random
+				-4.0      	5                   	0.8936946693232327  	Random
+				-3.0      	12                  	0.2059032107320684  	Random
+				-2.0      	13                  	0.06619257972219345 	Random
+				-1.0      	7                   	0.2888443663464849  	Random
+				+1.0      	6                   	0.4795001221869535  	Random
+				+2.0      	5                   	0.8382564863858263  	Random
+				+3.0      	1                   	0.6352562959972483  	Random
